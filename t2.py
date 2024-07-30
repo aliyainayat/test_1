@@ -1,1 +1,1 @@
-print("aliya")
+print("aliya inayat")
